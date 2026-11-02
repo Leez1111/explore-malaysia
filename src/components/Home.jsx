@@ -5,11 +5,11 @@ function Home() {
   return (
     <div style={{ textAlign: 'center', padding: '40px 20px' }}>
       
-      <h1 style={{ color: '#2c3e50', fontSize: '3rem', marginBottom: '10px' }}>
+      <h1 style={{ color: '#2c3e50', fontSize: '3rem', marginBottom: '20px' }}>
         Explore Malaysia
       </h1>
       
-      <h2 style={{ color: '#7f8c8d', fontSize: '1.5rem', fontWeight: 'normal', marginBottom: '30px' }}>
+      <h2 style={{ color: '#7f8c8d', fontSize: '1.5rem', fontWeight: 'normal', marginBottom: '50px' }}>
         Discover Malaysia, Create Memories.
       </h2>
       
