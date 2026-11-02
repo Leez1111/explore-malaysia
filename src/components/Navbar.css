@@ -1,0 +1,27 @@
+.navbar {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+  background-color: #f8f9fa;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.nav-logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #2c3e50;
+  margin-right: auto; /* This pushes the links to the right side */
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #34495e;
+  font-weight: bold;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #2980b9; /* Changes color when you hover over the link */
+}

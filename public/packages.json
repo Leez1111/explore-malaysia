@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "destination": "Langkawi Island",
+    "category": "Beach & Relaxation",
+    "duration": "3 Days, 2 Nights",
+    "price": "RM 450"
+  },
+  {
+    "id": 2,
+    "destination": "Mount Kinabalu",
+    "category": "Adventure & Hiking",
+    "duration": "4 Days, 3 Nights",
+    "price": "RM 850"
+  },
+  {
+    "id": 3,
+    "destination": "Penang George Town",
+    "category": "Heritage & Food",
+    "duration": "2 Days, 1 Night",
+    "price": "RM 300"
+  },
+  {
+    "id": 4,
+    "destination": "Taman Negara",
+    "category": "Nature & Wildlife",
+    "duration": "3 Days, 2 Nights",
+    "price": "RM 550"
+  }
+]
