@@ -27,7 +27,3 @@
   cursor: pointer;
   width: 100%;
 }
-
-.details-button:hover {
-  background-color: #a1d610; /* Adds a nice hover effect! */
-}

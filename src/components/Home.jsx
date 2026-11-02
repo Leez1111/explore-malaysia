@@ -1,5 +1,6 @@
 import React from 'react';
 import CityView from '../assets/images.1.jpg';
+import {Link} from 'react-router-dom';
 
 function Home() {
   return (
@@ -12,6 +13,24 @@ function Home() {
       <h2 style={{ color: '#7f8c8d', fontSize: '1.5rem', fontWeight: 'normal', marginBottom: '50px' }}>
         Discover Malaysia, Create Memories.
       </h2>
+
+      <div>
+        <Link to="/packages">
+        <button style={{ 
+          padding: '12px 25px', 
+          backgroundColor: '#3498db', 
+          color: 'white', 
+          border: 'none', 
+          borderRadius: '8px', 
+          cursor: 'pointer',
+          fontSize: '1.2rem',
+          fontWeight: 'bold',
+          marginBottom: '20px'
+          }}>
+            View Our Packages
+            </button>
+            </Link>
+        </div>
       
       <div>
         <img 
